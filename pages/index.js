@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="ROOT N LOOT" />
-    <img src="https://www.economist.com/cdn-cgi/image/width=834,quality=80,format=auto/content-assets/images/20231118_TWMAP501.jpg">
+    <img src="https://www.economist.com/cdn-cgi/image/width=834,quality=80,format=auto/content-assets/images/20231" />
       </main>
 
       <Footer />
