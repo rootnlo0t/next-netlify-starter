@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="ROOT N LOOT" />
-    <img src="https://images.playground.com/201a9fedc25e4e89988ddf1ff3ffa776.jpeg" />
+        <Header title="rooooOOOOOOOOt n loooo000t" />
+    <img src="https://mykhilafah.com/wp-content/uploads/2017/07/alquds.jpg" />
       </main>
 
       <Footer />
