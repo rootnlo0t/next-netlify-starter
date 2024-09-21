@@ -11,9 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Asslamu alaikum" />
-        <p className="description"> root N loot
-        </p>
+        <Header title="ROOT N LOOT" />
+    <img src="https://www.economist.com/cdn-cgi/image/width=834,quality=80,format=auto/content-assets/images/20231118_TWMAP501.jpg">
       </main>
 
       <Footer />
